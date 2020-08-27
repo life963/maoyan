@@ -1,2 +1,0 @@
-# maoyan
-maoyan-app
